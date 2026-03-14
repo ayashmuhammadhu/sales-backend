@@ -65,14 +65,3 @@ async def predict(
     return {"predicted_quantity": result}
 ```
 
-**"Commit new file"** click பண்ணு
-
----
-
-## STEP 3: Confirm பண்ணு
-
-இப்ப உன் repo-ல இந்த 3 files இருக்கணும்:
-```
-✅ requirements.txt
-✅ model.py
-✅ main.py
